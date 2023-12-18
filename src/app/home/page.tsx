@@ -1,6 +1,8 @@
+import styles from './page.module.css';
+
 export default function Home() {
   return (
-    <main>
+    <main className={styles.homeMain}>
       <h2>🏅 w-life 블로그에 오신 것을 환영합니다.</h2>
       <br />
       <p>본 블로그는 2023년부터 개인적인 일기, 개발일지 등 글쓰기 공간으로 사용할 예정입니다.</p>

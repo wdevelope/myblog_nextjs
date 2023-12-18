@@ -3,9 +3,11 @@
   align-items: center;
   justify-content: space-between;
 
-  background-color: rgb(41, 41, 41);
-  color: white;
-  padding: 1rem 1rem;
+  padding: 1.5rem 1.5rem;
+}
+
+.header h2 {
+  font-size: 2rem;
 }
 
 .LoginRegisterDiv a {
