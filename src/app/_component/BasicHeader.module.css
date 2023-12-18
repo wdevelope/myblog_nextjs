@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  background-color: rgb(41, 41, 41);
+  color: white;
+  padding: 1rem 1rem;
+}
+
+.LoginRegisterDiv a {
+  margin: 0rem 0.5rem;
+}
